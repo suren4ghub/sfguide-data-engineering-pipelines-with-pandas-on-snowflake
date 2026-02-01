@@ -38,3 +38,28 @@ Your branch is up to date with 'origin/stage-data-eng-pipeline-with-pd'.
 nothing to commit, working tree clean
 
 
+
+
+#############################################
+
+
+PS C:\Suren\SurenLearn\00 LinkedIn Learnings\Data-Engineering-Pipelines-With-Pandas-Snowflake\sfguide-data-engineering-pipelines-with-pandas-on-snowflake> git add -A
+
+PS C:\Suren\SurenLearn\00 LinkedIn Learnings\Data-Engineering-Pipelines-With-Pandas-Snowflake\sfguide-data-engineering-pipelines-with-pandas-on-snowflake> git commit -m "Adding a new file"
+[stage-data-eng-pipeline-with-pd 3dac547] Adding a new file
+ 1 file changed, 40 insertions(+)
+ create mode 100644 Suren_ReadMe_Commands.txt
+
+PS C:\Suren\SurenLearn\00 LinkedIn Learnings\Data-Engineering-Pipelines-With-Pandas-Snowflake\sfguide-data-engineering-pipelines-with-pandas-on-snowflake> git push origin stage-data-eng-pipeline-with-pd
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 22 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 985 bytes | 985.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/suren4ghub/sfguide-data-engineering-pipelines-with-pandas-on-snowflake.git
+   7658fc8..3dac547  stage-data-eng-pipeline-with-pd -> stage-data-eng-pipeline-with-pd
+
+
+
+
